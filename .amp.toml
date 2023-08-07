@@ -1,0 +1,12 @@
+name = "amp-example-ruby"
+version = "0.0.1"
+authors = ["Eguo Wang <wangeguo@gmail.com>"]
+edition = "v1"
+description = "A simple Ruby example app"
+readme = "README.md"
+homepage = "https://github.com/amphitheatre-app/amp-example-ruby"
+repository = "https://github.com/amphitheatre-app/amp-example-ruby"
+license = "Apache-2.0"
+license-file = "LICENSE"
+keywords = ["example", "ruby", "getting-started"]
+categories = ["example"]
