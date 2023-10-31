@@ -1,5 +1,5 @@
 name = "amp-example-ruby"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Eguo Wang <wangeguo@gmail.com>"]
 edition = "v1"
 description = "A simple Ruby example app"
